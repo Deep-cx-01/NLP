@@ -8,10 +8,10 @@ This repository contains various projects, datasets, and resources related to Na
 
 - **Datasets**: Contains datasets used in the projects.
 - **Projects**: Includes the following NLP projects:
-  - [Sentiment Analysis](Projects/Sentiment_Analysis.ipynb)
-  - [Twitter Sentiments](Projects/Twitter_Sentiments.ipynb)
-  - [Spelling Checker](Projects/Spelling_Checker.ipynb)
-  - [Fake News Detection](Projects/Fake_News_Detection.ipynb)
+  - [Sentiment Analysis](https://github.com/Deep-cx-01/NLP/tree/main/Projects/Sentimental%20Analysis)
+  - [Twitter Sentiments](https://github.com/Deep-cx-01/NLP/tree/main/Projects/Twitter_sentiments)
+  - [Spelling Checker](https://github.com/Deep-cx-01/NLP/tree/main/Projects/Spelling_Check)
+  - [Fake News Detection](https://github.com/Deep-cx-01/NLP/tree/main/Projects/Fake%20News)
 
 ### Files
 
